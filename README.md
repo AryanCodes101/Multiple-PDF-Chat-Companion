@@ -83,6 +83,7 @@ pdf-chatbot/
     ├── pdf_handler.py     # PDF handling and text extraction
     ├── query_engine.py    # Integration with OpenAI API and LangChain
     └── interface.py       # Streamlit interface components
+```
 
 ## License
 
