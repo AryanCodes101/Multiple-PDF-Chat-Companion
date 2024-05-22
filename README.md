@@ -1,4 +1,4 @@
-# PDF Chatbot
+# Multiple PDF Chat Companion
 
 ## Overview
 
@@ -32,7 +32,7 @@ This project is an NLP chatbot that allows you to interact with multiple PDFs se
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/pdf-chatbot.git
+    git clone https://github.com/softwarechaudhari/pdf-chatbot.git
     cd pdf-chatbot
     ```
 
@@ -83,3 +83,9 @@ pdf-chatbot/
     ├── pdf_handler.py     # PDF handling and text extraction
     ├── query_engine.py    # Integration with OpenAI API and LangChain
     └── interface.py       # Streamlit interface components
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
+
+For more details, refer to the [LICENSE](LICENSE) file.
